@@ -1,3 +1,4 @@
+
 # Draway - Política de Privacidade
 
 Este repositório contém a página web estática da Política de Privacidade do aplicativo **Draway**. 
